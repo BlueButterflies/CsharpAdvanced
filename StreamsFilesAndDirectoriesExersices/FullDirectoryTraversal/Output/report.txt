@@ -1,0 +1,10 @@
+.json
+--FullDirectoryTraversal.runtimeconfig.json - 0.000kb
+--FullDirectoryTraversal.runtimeconfig.dev.json - 0.000kb
+--FullDirectoryTraversal.deps.json - 0.000kb
+.dll
+--FullDirectoryTraversal.dll - 7.000kb
+.exe
+--FullDirectoryTraversal.exe - 156.000kb
+.pdb
+--FullDirectoryTraversal.pdb - 1.000kb
